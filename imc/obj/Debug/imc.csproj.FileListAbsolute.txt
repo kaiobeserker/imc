@@ -1,0 +1,11 @@
+C:\Users\kaio.ofigueiredo\source\repos\imc\imc\obj\Debug\imc.csproj.AssemblyReference.cache
+C:\Users\kaio.ofigueiredo\source\repos\imc\imc\obj\Debug\imc.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaio.ofigueiredo\source\repos\imc\imc\obj\Debug\imc.Form1.resources
+C:\Users\kaio.ofigueiredo\source\repos\imc\imc\obj\Debug\imc.Properties.Resources.resources
+C:\Users\kaio.ofigueiredo\source\repos\imc\imc\obj\Debug\imc.csproj.GenerateResource.cache
+C:\Users\kaio.ofigueiredo\source\repos\imc\imc\obj\Debug\imc.csproj.CoreCompileInputs.cache
+C:\Users\kaio.ofigueiredo\source\repos\imc\imc\bin\Debug\imc.exe.config
+C:\Users\kaio.ofigueiredo\source\repos\imc\imc\bin\Debug\imc.exe
+C:\Users\kaio.ofigueiredo\source\repos\imc\imc\bin\Debug\imc.pdb
+C:\Users\kaio.ofigueiredo\source\repos\imc\imc\obj\Debug\imc.exe
+C:\Users\kaio.ofigueiredo\source\repos\imc\imc\obj\Debug\imc.pdb
